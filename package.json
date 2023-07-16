@@ -1,0 +1,22 @@
+{
+  "name": "curso-cypress-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAG3161/Cypress-con-GIT.git"
+  },
+  "author": "JAG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAG3161/Cypress-con-GIT/issues"
+  },
+  "homepage": "https://github.com/JAG3161/Cypress-con-GIT#readme",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
